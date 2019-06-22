@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array
+            name="topic_data_array">
+        <item>354716089049483</item>
+        <item>356917050270573</item>
+        <item>352093082045955</item>
+        <item>352093081645920</item>
+        <item>356917050428189</item>
+        <item>352093081727587</item>
+        <item>352093080611238</item>
+        <item>352093082279430</item>
+        <item>356917050441232</item>
+        <item>356917050441232</item>
+    </string-array>
+    <string name="spinner_prompt">Please Select Topic</string>
+    <string name="topic_data">gps_data:</string>
+    <string name="url">iswm-dev.acceldash.com</string>
+    <string name="port">80</string>
+    <string name="spinner_header">Please select Topic</string>
+    <string name="marker_title">Location Marker</string>
+    <string name="network_error">Please check your network connection</string>
+    <string name="ok">OK</string>
+</resources>
